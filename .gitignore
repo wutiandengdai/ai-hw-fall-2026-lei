@@ -13,6 +13,12 @@ __pycache__/
 venv/
 env/
 
+# jupyter data
+data/
+models/
+results/
+SwinIR/
+
 # Local environment variables
 .env
 .env.*
